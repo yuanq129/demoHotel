@@ -2,8 +2,6 @@ package com.cosmose.demoHotel;
 
 import javax.transaction.Transactional;
 
-import org.joda.money.CurrencyUnit;
-import org.joda.money.Money;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;

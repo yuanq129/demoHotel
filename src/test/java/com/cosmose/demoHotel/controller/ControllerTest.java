@@ -53,6 +53,9 @@ public class ControllerTest extends BaseTest {
 	}
 
 	@Test
+	/**
+	 * test search rooms by criteria
+	 */
 	public void test03() {
 		String criteria = "{\"checkInDate\":\"Jun 22, 2019 10:34:45 AM\",\"checkOutDate\":\"Jun 23, 2019 10:34:45 AM\",\"city\":\"Shanghai\",\"priceMin\":9000,\"priceMax\":19000}";
 		
@@ -66,6 +69,9 @@ public class ControllerTest extends BaseTest {
 	}
 
 	@Test
+	/**
+	 * test check reservations for user
+	 */
 	public void test04() {
 		ResponseEntity<String> response = restTemplate.getForEntity(base.toString() + "reservation/check/1",
 				String.class);
