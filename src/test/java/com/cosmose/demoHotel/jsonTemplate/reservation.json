@@ -1,0 +1,58 @@
+{
+	"user": {
+		"name": "yuanq",
+		"reservations": [],
+		"id": 1,
+		"createTime": "Jun 25, 2019 3:39:21 PM",
+		"updateTime": "Jun 25, 2019 3:39:21 PM"
+	},
+	"rooms": [{
+		"hotel": {
+			"hotelOwner": {
+				"name": "Tony Leung",
+				"id": 1,
+				"createTime": "Jun 25, 2019 3:54:32 PM",
+				"updateTime": "Jun 25, 2019 3:54:32 PM"
+			},
+			"name": "Spring Hotel",
+			"city": "Shanghai",
+			"address": "West Nanjing Road",
+			"id": 1,
+			"createTime": "Jun 25, 2019 3:54:32 PM",
+			"updateTime": "Jun 25, 2019 3:54:32 PM"
+		},
+		"price": 10000,
+		"bedNum": 1,
+		"isAvailable": true,
+		"id": 1,
+		"createTime": "Jun 25, 2019 3:54:32 PM",
+		"updateTime": "Jun 25, 2019 3:54:32 PM"
+	}, {
+		"hotel": {
+			"hotelOwner": {
+				"name": "Tony Leung",
+				"id": 1,
+				"createTime": "Jun 25, 2019 3:54:32 PM",
+				"updateTime": "Jun 25, 2019 3:54:32 PM"
+			},
+			"name": "Spring Hotel",
+			"city": "Shanghai",
+			"address": "West Nanjing Road",
+			"id": 1,
+			"createTime": "Jun 25, 2019 3:54:32 PM",
+			"updateTime": "Jun 25, 2019 3:54:32 PM"
+		},
+		"price": 15000,
+		"bedNum": 2,
+		"isAvailable": true,
+		"id": 2,
+		"createTime": "Jun 25, 2019 3:54:32 PM",
+		"updateTime": "Jun 25, 2019 3:54:32 PM"
+	}],
+	"residentName": "Jake1",
+	"checkInDate": "Jun 27, 2019 3:39:25 PM",
+	"checkOutDate": "Jun 29, 2019 3:39:25 PM",
+	"bookingState": "ACTIVE",
+	"createTime": "Jun 25, 2019 3:39:25 PM",
+	"updateTime": "Jun 25, 2019 3:39:25 PM"
+}
